@@ -6,7 +6,7 @@ This is a basic landing page created using only HTML and CSS. It provides a clea
 
 ## Features
 
-- Simple and responsive layout for optimal viewing on various devices.
+- Clean and minimalistic design for a visually pleasing landing page.
 - Easily customizable styles using CSS classes and selectors.
 - Well-structured HTML code for easy content integration.
 
