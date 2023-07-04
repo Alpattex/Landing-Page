@@ -32,7 +32,6 @@ The folder structure of this project is as follows:
 
 - `index.html`: The main HTML file that contains the structure and content of the landing page.
 - `css/style.css`: The CSS file that defines the styles for the landing page.
-- `img/background.jpg`: An example image used as the background for the landing page. Replace it with your own image or remove it if not needed.
 
 ## Browser Compatibility
 
@@ -40,7 +39,7 @@ This landing page is designed to be compatible with modern web browsers. It is r
 
 ## Credits
 
-- Background image by [Unsplash](https://unsplash.com/)
+- Background images by [Unsplash](https://unsplash.com/)
 
 ## License
 
