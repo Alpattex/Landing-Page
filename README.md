@@ -28,8 +28,6 @@ The folder structure of this project is as follows:
 ├── index.html
 ├── css
 │   └── style.css
-└── img
-    └── background.jpg
 ```
 
 - `index.html`: The main HTML file that contains the structure and content of the landing page.
