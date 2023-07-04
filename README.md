@@ -26,12 +26,11 @@ The folder structure of this project is as follows:
 
 ```
 ├── index.html
-├── css
-└── style.css
+└── styles.css
 ```
 
 - `index.html`: The main HTML file that contains the structure and content of the landing page.
-- `css/style.css`: The CSS file that defines the styles for the landing page.
+- `styles.css`: The CSS file that defines the styles for the landing page.
 
 ## Browser Compatibility
 
