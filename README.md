@@ -1,8 +1,9 @@
 # Landing-Page
 
 # Simple Landing Page (CSS & HTML)
-
 This is a basic landing page created using only HTML and CSS. It provides a clean and straightforward design to showcase your content effectively.
+
+![Alt text](thumb.png)
 
 ## Features
 
